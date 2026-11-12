@@ -1,0 +1,321 @@
+User-ID,ISBN,Content Score,Collaborative Score,Hybrid Score,Signals,Book-Title,Book-Author,Publisher
+4197,0312973055,0.9041547496572651,,0.9041547496572651,Content only,Robert Ludlum's The Hades Factor,Robert Ludlum,St. Martin's Paperbacks
+4197,0141301120,,0.9000000000000001,0.9000000000000001,Item-CF only,Charlie and the Great Glass Elevator (Puffin Novels),Roald Dahl,Puffin Books
+4197,0843948302,,0.9000000000000001,0.9000000000000001,Item-CF only,Voice of the Blood,Jemiah Jefferson,Leisure Books
+4197,0553278029,,0.9000000000000001,0.9000000000000001,Item-CF only,A Great Deliverance,Elizabeth George,Bantam Books
+4197,081257639X,,0.9,0.9,Item-CF only,"Faith of the Fallen (Sword of Truth, Book 6)",Terry Goodkind,Tor Books
+4197,0553295608,,0.9,0.9,Item-CF only,A Suitable Vengeance,ELIZABETH GEORGE,Bantam
+4197,0804112835,,0.9,0.9,Item-CF only,"A Sudden, Fearful Death (William Monk Novels (Paperback))",Anne Perry,Ivy Books
+4197,074323748X,,0.9,0.9,Item-CF only,The Moment She Was Gone : A Novel,Evan Hunter,Simon &amp; Schuster
+4197,0679735879,,0.9,0.9,Item-CF only,The Unconsoled,Kazuo Ishiguro,Vintage Books USA
+4197,0312289901,0.7645405973599382,,0.7645405973599382,Content only,Robert Ludlum's The Altman Code: A Covert-One Novel,Robert Ludlum,St. Martin's Press
+7346,0425113892,,1.0000000000000002,1.0000000000000002,Item-CF only,Someone in the House,Barbara Michaels,Berkley Publishing Group
+7346,1853260045,,1.0,1.0,Item-CF only,Great Expectations (Wordsworth Classics),Charles Dickens,Wordsworth Editions Ltd
+7346,0786926945,,1.0,1.0,Item-CF only,The Second Generation,Margaret Weis,Wizards of the Coast
+7346,0345434676,,1.0,1.0,Item-CF only,Pegasus in Space,Anne McCaffrey,Del Rey Books
+7346,0449300021,,1.0,1.0,Item-CF only,Les Miserables,VICTOR HUGO,Fawcett
+7346,0767902076,,1.0,1.0,Item-CF only,Take Time for Your Life: A Personal Coach's Seven-Step Program for Creating the Life You Want,Cheryl Richardson,Broadway Books
+7346,0440411254,,1.0,1.0,Item-CF only,The Castle of Llyr (Chronicles of Prydain (Paperback)),LLOYD ALEXANDER,Yearling
+7346,0440201330,,1.0,1.0,Item-CF only,Five Bells and Bladebone,Martha Grimes,Dell Publishing Company
+7346,0140074317,,1.0,1.0,Item-CF only,The Neverending Story,Michael Ende,Penguin Books
+7346,0671647458,0.9880310826712317,,0.9880310826712317,Content only,Color Purple,Alice Walker,Pocket
+8681,0395071224,1.0000000000000002,,1.0000000000000002,Content only,The Hobbit,J. R. R. Tolkien,Houghton Mifflin Company
+8681,060961004X,,1.0000000000000002,1.0000000000000002,Item-CF only,Eat Cake : A Novel,JEANNE RAY,Shaye Areheart Books
+8681,0452278120,,1.0000000000000002,1.0000000000000002,Item-CF only,Herotica 5: A New Collection of Women's Erotic Fiction,Marcy Sheiner,Plume Books
+8681,0553142747,,1.0000000000000002,1.0000000000000002,Item-CF only,,,
+8681,0140089365,,1.0000000000000002,1.0000000000000002,Item-CF only,Q's Legacy,Helene Hanff,Penguin Books
+8681,0553212788,,1.0000000000000002,1.0000000000000002,Item-CF only,The Prince,Niccolo Machiavelli,Bantam
+8681,0451127897,,1.0000000000000002,1.0000000000000002,Item-CF only,Stand,Stephen King,Signet Book
+8681,0684835770,,1.0000000000000002,1.0000000000000002,Item-CF only,The BOOK OF VIRTUES,William J. Bennett,Simon &amp; Schuster
+8681,0767906314,,1.0000000000000002,1.0000000000000002,Item-CF only,Fraud: Essays,David Rakoff,Broadway Books
+8681,0375504907,0.9542966718055941,,0.9542966718055941,Content only,Reading Lolita in Tehran : A Memoir in Books,AZAR NAFISI,Random House
+26057,0380709139,,1.0000000000000002,1.0000000000000002,Item-CF only,Ellen Tebbits (Cleary Reissue),Beverly Cleary,HarperTrophy
+26057,0860917886,,1.0000000000000002,1.0000000000000002,Item-CF only,"I, Rigoberta Menchu: An Indian Woman in Guatemala",Rigoberta Menchu,Verso
+26057,157297091X,,1.0000000000000002,1.0000000000000002,Item-CF only,"Lightsabers (Star Wars: Young Jedi Knights, Book 4)",Kevin J. Anderson,Berkley Publishing Group
+26057,0440472091,,1.0000000000000002,1.0000000000000002,Item-CF only,Ramona the Pest (Ramona Quimby (Paperback)),Beverly Cleary,Yearling Books
+26057,193070834X,,1.0000000000000002,1.0000000000000002,Item-CF only,,,
+26057,0345428560,,1.0000000000000002,1.0000000000000002,Item-CF only,"Dark Tide II: Ruin (Star Wars: The New Jedi Order, Book 3)",Michael A. Stackpole,Del Rey Books
+26057,0786888083,,1.0000000000000002,1.0000000000000002,Item-CF only,Confessions of a Dangerous Mind : An Unauthorized Autobiography,Chuck Barris,Miramax
+26057,0805019367,,1.0,1.0,Item-CF only,"K Is for Killer (Grafton, Sue. Kinsey Millhone Mysteries.)",Sue Grafton,Henry Holt &amp; Company
+26057,0140298479,0.9251457502350127,,0.9251457502350127,Content only,Bridget Jones: The Edge of Reason,Helen Fielding,Penguin Books
+26057,8484505294,0.8811956813186087,,0.8811956813186087,Content only,Bridget Jones Sobrevivre/Edge of Reason,Helen Fielding,Distribooks Inc
+31343,0451207955,,1.0000000000000002,1.0000000000000002,Item-CF only,Serpent's Dance,Larry Brooks,Signet Book
+31343,0060506679,,1.0000000000000002,1.0000000000000002,Item-CF only,Every Secret Thing : A Novel,Laura Lippman,William Morrow
+31343,0399144412,,1.0000000000000002,1.0000000000000002,Item-CF only,The Reef,Nora Roberts,Putnam Pub Group
+31343,0679723056,,1.0000000000000002,1.0000000000000002,Item-CF only,What We Talk About When We Talk About Love: Stories (Vintage Contemporaries),Raymond Carver,Vintage Books USA
+31343,0385333293,,1.0000000000000002,1.0000000000000002,Item-CF only,A Bigamist's Daughter,ALICE MCDERMOTT,Delta
+31343,0060083263,,1.0000000000000002,1.0000000000000002,Item-CF only,"Sleeping Beauty (Margolin, Phillip)",Phillip Margolin,HarperCollins
+31343,0670887315,,1.0000000000000002,1.0000000000000002,Item-CF only,Disgrace,J. M. Coetzee,Viking Books
+31343,0679414614,,1.0,1.0,Item-CF only,How We Die: Reflections on Life's Final Chapter,Sherwin B. Nuland,Alfred A. Knopf
+31343,0312979088,0.8040913059715141,,0.8040913059715141,Content only,Unforgivable,Tina Wainscott,St. Martin's Paperbacks
+31343,0060539860,0.7772930741361429,,0.7772930741361429,Content only,Finding Fish,Antwone Fisher,HarperTorch
+35030,0345335082,0.9447593466218294,,0.9447593466218294,Content only,Dragonquest (Dragonquest),Anne McCaffrey,Del Rey Books
+35030,0380775123,,0.8,0.8,Item-CF only,Tiger Burning Bright,Marion Zimmer Bradley,Eos
+35030,0671876465,,0.8,0.8,Item-CF only,Mirror Dance,Lois McMaster Bujold,Baen
+35030,034529873X,,0.8,0.8,Item-CF only,Moreta: Dragonlady of Pern,Anne McCaffrey,Del Rey Books
+35030,0441001866,,0.8,0.8,Item-CF only,"Martin the Warrior (Redwall, Book 6)",Brian Jacques,Ace Books
+35030,0449209830,,0.8,0.8,Item-CF only,Mrs. Pollifax and the Hong Kong Buddha,Dorothy Gilman,Fawcett Books
+35030,0312925581,,0.8,0.8,Item-CF only,James Herriot's Dog Stories,James Herriot,St. Martin's Press
+35030,0380978954,,0.8,0.8,Item-CF only,The Truth: A Novel of Discworld,Terry Pratchett,HarperCollins Publishers
+35030,0553234595,,0.8,0.8,Item-CF only,Dragonsinger,Anne McCaffrey,Bantam Books
+35030,0812540026,,0.8,0.8,Item-CF only,The Spellsong War : Book 2 of Spellsong Cycle (Spellsong Cycle),L. E. Modesitt Jr.,Tor Fantasy
+67840,0671000853,,1.0000000000000002,1.0000000000000002,Item-CF only,Night Whispers,Judith McNaught,Atria
+67840,0425191257,,1.0000000000000002,1.0000000000000002,Item-CF only,Edge of the Moon (Berkley Sensation),Rebecca York,Berkley Publishing Group
+67840,0446608009,,1.0000000000000002,1.0000000000000002,Item-CF only,The Drowning People,Richard Mason,Warner Vision
+67840,0743216393,,1.0000000000000002,1.0000000000000002,Item-CF only,"Three Plums In One : One for the Money, Two for the Dough, Three to Get Deadly",Janet Evanovich,Scribner
+67840,0441010466,,1.0000000000000002,1.0000000000000002,Item-CF only,Omega,Jack McDevitt,Ace Books
+67840,0340750626,,1.0000000000000002,1.0000000000000002,Item-CF only,The Evidence Exposed,Elizabeth George,Not Avail
+67840,0425140601,,1.0000000000000002,1.0000000000000002,Item-CF only,Forever and the Night,Linda Lael Miller,Berkley Publishing Group
+67840,0060557818,,1.0000000000000002,1.0000000000000002,Item-CF only,Neverwhere : A Novel,Neil Gaiman,Perennial
+67840,0312983301,0.9106786481846361,1.0,0.955339324092318,Content + Item-CF,Full Blast (Janet Evanovich's Full Series),Janet Evanovich,St. Martin's Paperbacks
+67840,031298328X,0.8988479802066401,1.0,0.9494239901033201,Content + Item-CF,Full Tilt (Janet Evanovich's Full Series),Janet Evanovich,St. Martin's Paperbacks
+68984,0767908473,,1.0,1.0,Item-CF only,The Sorcerer's Companion: A Guide to the Magical World of Harry Potter,ALLAN ZOLA KRONZEK,Broadway
+68984,1841954608,,1.0,1.0,Item-CF only,Vernon God Little: A 21st Century Comedy in the Presence of Death,D. B. C. Pierre,Canongate Books
+68984,0743223551,,1.0,1.0,Item-CF only,"The Kills (Fairstein, Linda)",Linda Fairstein,Scribner
+68984,034544003X,,1.0,1.0,Item-CF only,Southampton Row (Charlotte &amp; Thomas Pitt Novels (Hardcover)),Anne Perry,Ballantine Books
+68984,0743411366,,1.0,1.0,Item-CF only,Say When : A Novel,Elizabeth Berg,Atria Books
+68984,0399149295,,1.0,1.0,Item-CF only,Blood Orchid (Holly Barker Novels (Hardcover)),Stuart Woods,Putnam Adult
+68984,0394800893,,1.0,1.0,Item-CF only,The Sneetches and Other Stories,Dr. Seuss,Random House Children's Books
+68984,042518904X,,1.0,1.0,Item-CF only,Widow's Walk,Robert B. Parker,Berkley Publishing Group
+68984,0842329129,1.0,0.8679977622889599,0.9339988811444799,Content + Item-CF,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,Tyndale House Publishers
+68984,0842332251,1.0,0.856057184283895,0.9280285921419476,Content + Item-CF,The Mark: The Beast Rules the World (Left Behind #8),Tim LaHaye,Tyndale House Publishers
+69410,0385311923,,1.0,1.0,Item-CF only,Lightning,DANIELLE STEEL,Delacorte Press
+69410,0756400163,,1.0,1.0,Item-CF only,A Constellation of Cats (Daw Book Collectors),Denise Little,Daw Books
+69410,0671039946,,1.0,1.0,Item-CF only,Ice (Shooting Stars),V.C. Andrews,Pocket
+69410,0440234859,,1.0,1.0,Item-CF only,Losing Julia,Jonathan Hull,Island
+69410,0684865459,,1.0,1.0,Item-CF only,High Exposure: An Enduring Passion for Everest and Unforgiving Places,David Breashears,Simon &amp; Schuster
+69410,0380896931,,1.0,1.0,Item-CF only,Tender Is the Storm,Johanna Lindsey,Avon
+69410,0395353009,,1.0,1.0,Item-CF only,The Prince of Tides,Pat Conroy,Houghton Mifflin Company
+69410,8804342838,,1.0,1.0,Item-CF only,Due di due (Bestsellers),Andrea De Carlo,A. Mondadori
+69410,3446202692,,1.0,1.0,Item-CF only,"Eine Frau, Eine Wohnung, Ein Roman",Wilhelm Genazino,Hanser Gardner Publications
+69410,0446524131,0.4881164398214755,0.8422970545148075,0.6652067471681415,Content + Item-CF,Something More: Excavating Your Authentic Self,Sarah Ban Breathnach,Warner Books
+69684,0060004533,,0.9000000000000001,0.9000000000000001,Item-CF only,The Neal Pollack Anthology of American Literature: The Collected Writings of Neal Pollack,Neal Pollack,Perennial
+69684,0345340248,,0.9000000000000001,0.9000000000000001,Item-CF only,Dragonriders of Pern (Pern),Anne McCaffrey,Del Rey Books
+69684,0141182342,,0.9000000000000001,0.9000000000000001,Item-CF only,The Call of Cthulhu and Other Weird Stories (Penguin Twentieth-Century Classics),S. T. Joshi,Penguin Books
+69684,037572737X,,0.9000000000000001,0.9000000000000001,Item-CF only,American Tabloid,James Ellroy,Vintage Books USA
+69684,0449213773,,0.9,0.9,Item-CF only,Life Before Man,Margaret Atwood,Fawcett Books
+69684,0679410325,,0.9,0.9,Item-CF only,"Secret History, The",DONNA TARTT,Knopf
+69684,0679771476,,0.9,0.9,Item-CF only,The Law of Similars,CHRIS BOHJALIAN,Vintage
+69684,0525946535,,0.9,0.9,Item-CF only,One-Hit Wonder,Lisa Jewell,Dutton Adult
+69684,031286860X,0.8985516554194051,,0.8985516554194051,Content only,Ender's Shadow (Ender Wiggins Saga (Hardcover)),Orson Scott Card,Tor Books
+69684,0812589041,0.8385890381846413,,0.8385890381846413,Content only,Ender's Game,Orson Scott Card,Tor Books
+79153,0553249754,,1.0,1.0,Item-CF only,Brain Child,John Saul,Bantam Doubleday Dell
+79153,0425177351,,1.0,1.0,Item-CF only,Bio-Strike (Tom Clancy's Power Plays (Paperback)),Jerome Preisler,Berkley Publishing Group
+79153,0553582682,,1.0,1.0,Item-CF only,"Guinness World Records 2000 (Guinness Book of Records, 2000)",Nic Kynaston,Bantam Books
+79153,0064400042,,1.0,1.0,Item-CF only,On the Banks of Plum Creek,Laura Ingalls Wilder,HarperTrophy
+79153,1561380911,,1.0,1.0,Item-CF only,The Artistic Cat,Running Press,Running Press Book Publishers
+79153,0399143165,,1.0,1.0,Item-CF only,Toxin,Robin Cook,Putnam Pub Group
+79153,1885211279,,1.0,1.0,Item-CF only,There's No Toilet Paper on the Road Less Traveled: The Best of Travel Humor and Misadventure (Travelers' Tales Guides),Doug Lansky,Travelers' Tales Guides
+79153,0449212602,,1.0,1.0,Item-CF only,The Handmaid's Tale,Margaret Atwood,Fawcett Books
+79153,0312966555,0.8860361862356291,,0.8860361862356291,Content only,All Things Wise and Wonderful (All Things Wise &amp; Wonderful),James Herriot,St. Martin's Press
+79153,0441007554,0.5783276624831517,0.9,0.7391638312415758,Content + Item-CF,All Tomorrow's Parties,William Gibson,Ace Books
+79475,3442723078,,1.0,1.0,Item-CF only,Die Asche Meiner Mutter,Frank McCourt,"Wilhelm Goldmann Verlag, GmbH"
+79475,0894718207,,1.0,1.0,Item-CF only,Nostalgic Barbie: A Postcard Book,Running Press,Running Press Book Publishers
+79475,0553213512,,1.0,1.0,Item-CF only,The Time Machine (Bantam Classics),H. G. Wells,Bantam
+79475,0800781562,,1.0,1.0,Item-CF only,The Hiding Place,Corrie Ten Boom,Fleming H. Revell Company
+79475,0886779308,,1.0,1.0,Item-CF only,The Chanur Saga,C. J. Cherryh,Daw Books
+79475,0156027607,,1.0,1.0,Item-CF only,Solaris,Stanislaw Lem,Harvest Books
+79475,0553564927,,1.0,1.0,Item-CF only,"The Last Command (Star Wars: The Thrawn Trilogy, Vol. 3)",Timothy Zahn,Bantam
+79475,0385333498,,1.0,1.0,Item-CF only,The Sirens of Titan,Kurt Vonnegut,Delta Trade Paperbacks
+79475,0345308999,0.8565988057726559,,0.8565988057726559,Content only,Foundation (Foundation Novels (Paperback)),Isaac Asimov,Del Rey Books
+79475,0345296052,0.8243078712911399,,0.8243078712911399,Content only,The Fellowship of the Ring (Lord of the Rings (Paperback)),J. R. R. Tolkien,Ballantine Books
+80826,0688155456,,1.0,1.0,Item-CF only,Witch Week (Chronicles of Chrestomanci),Diana Wynne Jones,HarperTrophy
+80826,0425099148,,1.0,1.0,Item-CF only,Death in the Clouds,Agatha Christie,Berkley Publishing Group
+80826,0440222028,,1.0,1.0,Item-CF only,Simisola,Ruth Rendell,Dell
+80826,0201489376,,1.0,1.0,Item-CF only,Dreams of Trespass: Tales of a Harem Girlhood,Fatima Mernissi,Addison Wesley Publishing Company
+80826,0156226006,,1.0,1.0,Item-CF only,"Cosmicomics (Harbrace Paperbound Library, Hpl 69)",Italo Calvino,Harvest Books
+80826,0064410382,,1.0,1.0,Item-CF only,Dogsbody,Diana Wynne Jones,HarperTrophy
+80826,0385333862,,1.0,1.0,Item-CF only,The Running Mate,Joe Klein,Dial Press
+80826,0425093255,,1.0,1.0,Item-CF only,Five Little Pigs (Hercule Poirot Mysteries (Paperback)),Agatha Christie,Berkley Publishing Group
+80826,0060959037,0.8681127034607847,,0.8681127034607847,Content only,Prodigal Summer: A Novel,Barbara Kingsolver,Perennial
+80826,068983571X,0.7684282585859212,,0.7684282585859212,Content only,Hound of the Baskervilles (Aladdin Classics),Sir Arthur Conan Doyle,Aladdin
+95359,1575667215,,1.0000000000000002,1.0000000000000002,Item-CF only,Strawberry Shortcake Murder: A Hannah Swensen Mystery (Hannah Swensen Mysteries (Paperback)),Joanne Fluke,Kensington Publishing Corporation
+95359,0297843311,,1.0000000000000002,1.0000000000000002,Item-CF only,What Not to Wear,Susannah Constantine,Weidenfeld Nicolson Illustrated
+95359,0449006557,,1.0000000000000002,1.0000000000000002,Item-CF only,Half Moon Street (Charlotte &amp; Thomas Pitt Novels (Paperback)),Anne Perry,Ballantine Books
+95359,0688058914,,1.0000000000000002,1.0000000000000002,Item-CF only,Lie Down With Lions,Ken Follett,Smithmark Pub
+95359,0380709244,,1.0000000000000002,1.0000000000000002,Item-CF only,The Mouse and the Motorcycle,Beverly Cleary,HarperTrophy
+95359,0399144595,,1.0000000000000002,1.0000000000000002,Item-CF only,Liberty Falling (Anna Pigeon Mysteries (Hardcover)),Nevada Barr,Putnam Publishing Group
+95359,0812539370,,1.0000000000000002,1.0000000000000002,Item-CF only,The Callahan Chronicals,Spider Robinson,Tor Books
+95359,0446403830,,1.0000000000000002,1.0000000000000002,Item-CF only,Wolf in the Shadows,Marcia Muller,Warner Books
+95359,0312305060,1.0,,1.0,Content only,The Hours: A Novel,Michael Cunningham,Picador
+95359,006098726X,1.0,0.8,0.9,Content + Item-CF,Stupid White Men : ...And Other Sorry Excuses for the State of the Nation!,Michael Moore,Regan Books
+106821,0823401898,,0.7000000000000001,0.7000000000000001,Item-CF only,The Shrinking of Treehorn,Florence Parry Heide,Holiday House
+106821,0425169871,,0.7000000000000001,0.7000000000000001,Item-CF only,Firebird,Janice Graham,Berkley Publishing Group
+106821,0553102222,,0.7000000000000001,0.7000000000000001,Item-CF only,David Letterman's Book of Top Ten Lists and Zesty Lo-Cal Chicken Recipes,David Letterman,Bantam
+106821,0451180054,,0.7000000000000001,0.7000000000000001,Item-CF only,Trial by Fire,Nancy Taylor Rosenberg,Signet Book
+106821,0425192725,,0.7000000000000001,0.7000000000000001,Item-CF only,Q Is for Quarry,Sue Grafton,Berkley Publishing Group
+106821,0670894508,,0.7000000000000001,0.7000000000000001,Item-CF only,Cause Celeb,Helen Fielding,Viking Books
+106821,0451204948,,0.7000000000000001,0.7000000000000001,Item-CF only,A Day Late and a Dollar Short,Terry McMillan,Signet Book
+106821,0671543296,,0.7000000000000001,0.7000000000000001,Item-CF only,Less Than Zero,Bret Easton Ellis,Random House Value Pub
+106821,0312875681,0.6424346078764954,,0.6424346078764954,Content only,Forests of the Heart (Newford),Charles de Lint,Tor Books
+106821,0312890044,0.6369016481201784,,0.6369016481201784,Content only,Moonheart (Newford),Charles de Lint,Orb Books
+112765,0449212394,,1.0000000000000002,1.0000000000000002,Item-CF only,Bolt,Dick Francis,Fawcett Books
+112765,0425145301,,1.0000000000000002,1.0000000000000002,Item-CF only,McNally's Caper (Archy McNally Novels (Paperback)),Lawrence Sanders,Berkley Publishing Group
+112765,0064403688,,1.0000000000000002,1.0000000000000002,Item-CF only,Jacob Have I Loved,Katherine Paterson,HarperTrophy
+112765,0395404258,,1.0000000000000002,1.0000000000000002,Item-CF only,The Handmaid's Tale,Margaret Atwood,Houghton Mifflin
+112765,0449910644,,1.0000000000000002,1.0000000000000002,Item-CF only,Spontaneous Healing : How to Discover and Enhance Your Body's Natural Ability to Maintain and Heal Itself,ANDREW MD WEIL,Ballantine Books
+112765,0375800387,,1.0000000000000002,1.0000000000000002,Item-CF only,"Junie B. Jones is Almost Flower Girl (Junie B. Jones 13, paper)",Barbara Park,Random House Children's Books
+112765,0679434046,,1.0000000000000002,1.0000000000000002,Item-CF only,In the Kitchen With Rosie: Oprah's Favorite Recipes,Rosie Daley,Alfred A. Knopf
+112765,006098726X,1.0,,1.0,Content only,Stupid White Men : ...And Other Sorry Excuses for the State of the Nation!,Michael Moore,Regan Books
+112765,0684834723,,1.0,1.0,Item-CF only,The LETTER,Richard Paul Evans,Simon &amp; Schuster
+112765,0804111154,0.9319178494317849,,0.9319178494317849,Content only,Maybe (Maybe Not : Second Thoughts from a Secret Life),Robert Fulghum,Ivy Books
+114279,0140431357,,1.0000000000000002,1.0000000000000002,Item-CF only,Tess of the D'Urbervilles (Penguin Classics),Thomas Hardy,Penguin Books
+114279,0842329110,,1.0,1.0,Item-CF only,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,Tyndale House Publishers
+114279,0345460952,,1.0,1.0,Item-CF only,The Salmon of Doubt,DOUGLAS ADAMS,Ballantine Books
+114279,0330373269,,1.0,1.0,Item-CF only,,,
+114279,0140430172,,1.0,1.0,Item-CF only,Oliver Twist (Penguin Classics),Charles Dickens,Penguin Books
+114279,0525946535,,1.0,1.0,Item-CF only,One-Hit Wonder,Lisa Jewell,Dutton Adult
+114279,0091882109,,1.0,1.0,Item-CF only,One Hit Wonderland,Tony Hawks,Ebury Press
+114279,0446611379,,1.0,1.0,Item-CF only,The Red Room,Nicci French,Warner Vision
+114279,068487217X,0.8154071752855097,,0.8154071752855097,Content only,Angelas Ashes: A Memoir,Frank McCourt,Scribner
+114279,0140293450,0.7370897026677439,,0.7370897026677439,Content only,About a Boy,Nick Hornby,Penguin Books Ltd
+126664,0553205587,,0.8,0.8,Item-CF only,Lord God Made Them All,James Herriot,Bantam Doubleday Dell
+126664,0345431693,,0.8,0.8,Item-CF only,Dave Barry Turns 50,Dave Barry,Ballantine Books
+126664,0439099404,,0.8,0.8,Item-CF only,Adventures of Tom Sawyer,Mark Twain,Scholastic
+126664,0374480133,,0.8,0.8,Item-CF only,Tuck Everlasting,Natalie Babbitt,Sunburst
+126664,0743222229,,0.8,0.8,Item-CF only,George W. Bushisms : The Slate Book of The Accidental Wit and Wisdom of our 43rd President,Jacob Weisberg,Fireside
+126664,0590957678,,0.8,0.8,Item-CF only,Riding Freedom,Pam Ryan,Scholastic Inc
+126664,0679732241,,0.8,0.8,Item-CF only,The Sound and the Fury (Vintage International),WILLIAM FAULKNER,Vintage
+126664,0399140913,,0.8,0.8,Item-CF only,After All,Mary Tyler Moore,Putnam Pub Group
+126664,0028604199,0.6827013596667582,0.8,0.7413506798333791,Content + Item-CF,Once upon a More Enlightened Time: More Politically Correct Bedtime Stories,James Finn Garner,MacMillan Publishing Company.
+126664,0028604202,0.6605477513753121,0.8,0.7302738756876561,Content + Item-CF,Politically Correct Holiday Stories: For an Enlightened Yuletide Season,James Finn Garner,John Wiley &amp; Sons Inc
+131039,157322202X,,1.0000000000000002,1.0000000000000002,Item-CF only,The Dream of Scipio,Iain Pears,Riverhead Books
+131039,0140089365,,1.0000000000000002,1.0000000000000002,Item-CF only,Q's Legacy,Helene Hanff,Penguin Books
+131039,1400032806,,1.0000000000000002,1.0000000000000002,Item-CF only,Under the Banner of Heaven : A Story of Violent Faith,JON KRAKAUER,Anchor
+131039,0140440372,,1.0000000000000002,1.0000000000000002,Item-CF only,The Last Days of Socrates,Plato,Penguin/Puffin Mass Market
+131039,0385498721,,1.0,1.0,Item-CF only,Survivor : A Novel,CHUCK PALAHNIUK,Anchor
+131039,0517693119,,1.0,1.0,Item-CF only,More Than Complete Hitchhiker's Guide,Douglas Adams,Bonanza Books
+131039,0805056637,,1.0,1.0,Item-CF only,Are You Somebody: The Accidental Memoir of a Dublin Woman,Nuala O'Faolain,Henry Holt &amp; Company
+131039,067972754X,,1.0,1.0,Item-CF only,Dictionary of the Khazars (F) (Vintage International),MILORAD PAVIC,Vintage
+131039,0380973650,,1.0,1.0,Item-CF only,American Gods: A Novel,Neil Gaiman,William Morrow
+131039,0743422082,0.39425523931403716,,0.39425523931403716,Content only,The Immaculate Deception,Iain Pears,Pocket
+145369,0440124344,,1.0,1.0,Item-CF only,Family Album,Danielle Steel,Dell
+145369,0440217512,,1.0,1.0,Item-CF only,Wings,Danielle Steel,Dell
+145369,0812577701,,1.0,1.0,Item-CF only,Irish Whiskey: A Nuala Anne McGrail Novel (Nuala Anne McGrail Novels (Paperback)),Andrew M. Greeley,Tor Books
+145369,0441788386,,1.0,1.0,Item-CF only,Stranger in a Strange Land,Robert A. Heinlein,Ace Books
+145369,0440177049,,1.0,1.0,Item-CF only,Season of Passion,Danielle Steel,Dell
+145369,0679721037,,1.0,1.0,Item-CF only,Hiroshima,John Hersey,Vintage Books USA
+145369,0451522222,,1.0,1.0,Item-CF only,Hunchback of Notre Dame,Victor Hugo,Signet Classics
+145369,0451410947,,1.0,1.0,Item-CF only,Must Love Dogs,Claire Cook,Onyx Books
+145369,0446606189,0.7472586963908239,0.8,0.773629348195412,Content + Item-CF,Cat &amp; Mouse (Alex Cross Novels),James Patterson,Warner Books
+145369,0446527793,0.696247082422092,0.8,0.7481235412110461,Content + Item-CF,The Guardian,Nicholas Sparks,Warner Books
+161348,0451208188,,0.9,0.9,Item-CF only,The English Assassin,Daniel Silva,Signet Book
+161348,067165831X,,0.9,0.9,Item-CF only,Hot Shot,Susan Elizabeth Phillips,Pocket
+161348,0380805995,,0.9,0.9,Item-CF only,Kiss of the Bees: A Novel of Suspense,J.A. Jance,Avon
+161348,0399150811,,0.9,0.9,Item-CF only,"Retreat, Hell",W. E. B. Griffin,Putnam Publishing Group
+161348,0515134279,,0.9,0.9,Item-CF only,The Straw Men,Michael Marshall,Jove Books
+161348,0671793578,,0.9,0.9,Item-CF only,The End Of The Dream The Golden Boy Who Never Grew Up : Ann Rules Crime Files Volume 5,Ann Rule,Pocket
+161348,0486266850,,0.9,0.9,Item-CF only,The Raven and Other Favorite Poems (Dover Thrift Editions),Edgar Allan Poe,Dover Publications
+161348,037383599X,,0.9,0.9,Item-CF only,Simply Sensual (Harlequin Single Title),Carly Phillips,Harlequin
+161348,0425168298,0.8322798276531991,,0.8322798276531991,Content only,Secret Prey,John Sandford,Berkley Publishing Group
+161348,0425152898,0.8193284484979966,,0.8193284484979966,Content only,Mind Prey,John Sandford,Berkley Publishing Group
+162121,0380975068,,0.9,0.9,Item-CF only,The Lust Lizard of Melancholy Cove,Christopher Moore,Spike
+162121,0345319672,,0.9,0.9,Item-CF only,The Ballad of Typhoid Mary,J.F. Federspiel,Ballantine Books
+162121,0330489461,,0.9,0.9,Item-CF only,,,
+162121,0060165529,,0.9,0.9,Item-CF only,Maybe the Moon: A Novel,Armistead Maupin,Harpercollins
+162121,034541215X,,0.9,0.9,Item-CF only,Bimbos of the Death Sun,SHARYN MCCRUMB,Fawcett
+162121,0140244816,,0.9,0.9,Item-CF only,What's A Girl Gotta Do,Sparkle Hayter,Penguin Books
+162121,0060013117,,0.9,0.9,Item-CF only,Night Watch,Terry Pratchett,HarperCollins
+162121,0140262032,,0.9,0.9,Item-CF only,Revenge of the Cootie Girls: A Robin Hudson Mystery (Robin Hudson Mysteries (Paperback)),Sparkle Hayter,Penguin Books
+162121,0517703963,0.809696287780384,,0.809696287780384,Content only,Midwives,Chris Bohjalian,Random House~trade
+162121,0060539860,0.7772930741361429,,0.7772930741361429,Content only,Finding Fish,Antwone Fisher,HarperTorch
+187145,0060924349,,0.9000000000000001,0.9000000000000001,Item-CF only,Maybe the Moon : A Novel,Armistead Maupin,Perennial
+187145,0064471969,,0.9000000000000001,0.9000000000000001,Item-CF only,Shade's Children,Garth Nix,Eos
+187145,0375410546,,0.9000000000000001,0.9000000000000001,Item-CF only,When We Were Orphans,Kazuo Ishiguro,Alfred A. Knopf
+187145,1573225053,,0.9000000000000001,0.9000000000000001,Item-CF only,Desolation Angels,Jack Kerouac,Riverhead Books
+187145,0679455116,,0.9000000000000001,0.9000000000000001,Item-CF only,Chasing Cezanne,Peter Mayle,Alfred A. Knopf
+187145,0812512456,,0.9000000000000001,0.9000000000000001,Item-CF only,The Cold One,Christopher Pike,Tor Books
+187145,0440330076,,0.9000000000000001,0.9000000000000001,Item-CF only,Go Tell It on the Mountain,James Baldwin,Laurel
+187145,0425140318,,0.9000000000000001,0.9000000000000001,Item-CF only,Private Pleasures,Lawrence Sanders,Berkley Publishing Group
+187145,0140186832,,0.9000000000000001,0.9000000000000001,Item-CF only,A Portrait of the Artist As a Young Man (Twentieth-Century Classics),James Joyce,Penguin Books
+187145,0156004801,0.9405278528998751,0.8,0.8702639264499376,Content + Item-CF,All the King's Men (Harvest Book),Robert Penn Warren,Harvest Books
+200422,0812552636,,1.0000000000000002,1.0000000000000002,Item-CF only,Dragonfly,John Farris,Tor Books (Mm)
+200422,0440198577,,1.0000000000000002,1.0000000000000002,Item-CF only,When the Wind Blows,John Saul,Bantam Doubleday Dell
+200422,0553295608,,1.0000000000000002,1.0000000000000002,Item-CF only,A Suitable Vengeance,ELIZABETH GEORGE,Bantam
+200422,0451210638,,1.0000000000000002,1.0000000000000002,Item-CF only,A Case of Need,Michael Crichton,Signet Book
+200422,0671003518,,1.0,1.0,Item-CF only,The BRIDE - PROMOTIONAL,Julie Garwood,Pocket
+200422,0886777992,,1.0,1.0,Item-CF only,This Alien Shore,C. S. Friedman,Daw Books
+200422,067168289X,,1.0,1.0,Item-CF only,IF THERE BE THORNS (Dollanger Saga (Paperback)),V.C. Andrews,Pocket
+200422,0812555120,,1.0,1.0,Item-CF only,Zombie Lover (Xanth),Piers Anthony,Tor Fantasy
+200422,0446354678,0.8833253309587077,1.0,0.9416626654793538,Content + Item-CF,Memories of Midnight,Sidney Sheldon,Warner Books
+200422,0671886665,0.739879573330387,0.8,0.7699397866651936,Content + Item-CF,A Cry In The Night,Mary Higgins Clark,Pocket
+207259,067168289X,,1.0,1.0,Item-CF only,IF THERE BE THORNS (Dollanger Saga (Paperback)),V.C. Andrews,Pocket
+207259,034539657X,,1.0,1.0,Item-CF only,Dark Rivers of the Heart,Dean R. Koontz,Ballantine Books
+207259,0449912639,,1.0,1.0,Item-CF only,Girls : A Novel (Ballantine Reader's Circle),FREDERICK BUSCH,Ballantine Books
+207259,0440224764,,1.0,1.0,Item-CF only,The Partner,John Grisham,Dell Publishing Company
+207259,0786890371,,1.0,1.0,Item-CF only,Cranberry Queen,Kathleen DeMarco,Miramax
+207259,0451190564,,1.0,1.0,Item-CF only,The Green Mile: Night Journey (Green Mile Series),Stephen King,Signet Book
+207259,0449226182,,1.0,1.0,Item-CF only,Amethyst Dreams,Phyllis A. Whitney,Ivy Books
+207259,044022165X,,1.0,1.0,Item-CF only,The Rainmaker,JOHN GRISHAM,Dell
+207259,067102535X,0.8790215674518145,,0.8790215674518145,Content only,"Last Dance, Last Chance (Ann Rule's Crime Files)",Ann Rule,Pocket
+207259,0425147363,0.9443948789289219,0.5979571868663822,0.771176032897652,Content + Item-CF,Tom Clancy's Op-Center (Tom Clancy's Op Center (Paperback)),Tom Clancy,Berkley Publishing Group
+210315,0151006725,,0.9000000000000001,0.9000000000000001,Item-CF only,Slammerkin,Emma Donoghue,Harcourt
+210315,0385507607,,0.9000000000000001,0.9000000000000001,Item-CF only,The Probable Future,ALICE HOFFMAN,Doubleday
+210315,0385508417,,0.9000000000000001,0.9000000000000001,Item-CF only,Skipping Christmas,JOHN GRISHAM,Doubleday
+210315,0373250118,,0.9,0.9,Item-CF only,See Jane Date (Red Dress Ink (Paperback)),Melissa Senate,Red Dress Ink
+210315,0786863137,,0.9,0.9,Item-CF only,Brain Droppings,George Carlin,Hyperion
+210315,0425167313,,0.9,0.9,Item-CF only,Here on Earth,Alice Hoffman,Berkley Publishing Group
+210315,0688174035,,0.9,0.9,Item-CF only,More Than You Know: A Novel,Beth Gutcheon,William Morrow &amp; Company
+210315,0446606774,,0.9,0.9,Item-CF only,Home at Last,Katherine Stone,Warner Books
+210315,0425179605,,0.9,0.9,Item-CF only,Some Things That Stay,Sarah Willis,Berkley Publishing Group
+210315,1400077354,0.8928061410883921,,0.8928061410883921,Content only,The House of Sand and Fog (Vintage Contemporaries (Paperback)),ANDRE III DUBUS,Vintage
+213638,0425150429,,1.0000000000000002,1.0000000000000002,Item-CF only,Time Without End,Linda Lael Miller,Berkley Publishing Group
+213638,0440194903,,1.0000000000000002,1.0000000000000002,Item-CF only,When the Wind Blows,John Saul,Dell
+213638,0312872399,,1.0000000000000002,1.0000000000000002,Item-CF only,Kushiel's Chosen (Kushiel's Legacy),Jacqueline Carey,Tor Books
+213638,0446329894,,1.0000000000000002,1.0000000000000002,Item-CF only,If Tomorrow Comes,Sidney Sheldon,Warner Books> C/o Little Br
+213638,0064409945,,1.0000000000000002,1.0000000000000002,Item-CF only,The Thief of Always,Clive Barker,HarperTrophy
+213638,0380978555,,1.0000000000000002,1.0000000000000002,Item-CF only,The Pursuit (Sherring Cross (Hardcover)),Johanna Lindsey,William Morrow &amp; Company
+213638,0385337574,,1.0000000000000002,1.0000000000000002,Item-CF only,Neurotica,SUE MARGOLIS,Delta
+213638,0515112305,,1.0000000000000002,1.0000000000000002,Item-CF only,Lord of Hawkfell Island,Catherine Coulter,Jove Books
+213638,0553211765,0.8903536528440084,,0.8903536528440084,Content only,Tale of Two Cities (Bantam Classic),Charles Dickens,Bantam
+213638,0439425220,0.8851173863735651,,0.8851173863735651,Content only,Harry Potter and the Chamber of Secrets Postcard Book,J. K. Rowling,Scholastic
+225435,0451150244,,0.7000000000000001,0.7000000000000001,Item-CF only,Pet Sematary,Stephen King,Signet Book
+225435,0380805596,,0.7000000000000001,0.7000000000000001,Item-CF only,Where River Turns to Sky,Gregg Kleiner,Perennial
+225435,0385260075,,0.7000000000000001,0.7000000000000001,Item-CF only,Cat's Eye,Margaret Atwood,Doubleday Books
+225435,0553258478,,0.7000000000000001,0.7000000000000001,Item-CF only,Exodus,Leon Uris,Bantam Books
+225435,0749399570,,0.7000000000000001,0.7000000000000001,Item-CF only,The Joy Luck Club,Amy Tan,Vintage
+225435,0061093084,,0.7000000000000001,0.7000000000000001,Item-CF only,Everville : The Second Book of the Art,Clive Barker,HarperTorch
+225435,0192834118,,0.7000000000000001,0.7000000000000001,Item-CF only,The Idiot (Oxford World's Classics),Fyodor Dostoyevsky,Oxford University Press
+225435,0451525949,,0.7000000000000001,0.7000000000000001,Item-CF only,The Three Musketeers,Alexandre Dumas,Signet Classics
+225435,0684827107,,0.7000000000000001,0.7000000000000001,Item-CF only,The End Of Alice,A.M. Homes,Scribner
+225435,3499125803,0.43543532898039805,,0.43543532898039805,Content only,Wassermusik. Roman.,Tom Coraghessan Boyle,Rowohlt Tb.
+226553,1551667908,,1.0000000000000002,1.0000000000000002,Item-CF only,Carriage House,Carla Neggers,Mira
+226553,0373079680,,1.0000000000000002,1.0000000000000002,Item-CF only,"Undercover Princess (Royally Wed) (Silhouette Intimate Moments, 968)",Suzanne Brockmann,Silhouette
+226553,0805019367,,1.0,1.0,Item-CF only,"K Is for Killer (Grafton, Sue. Kinsey Millhone Mysteries.)",Sue Grafton,Henry Holt &amp; Company
+226553,0971766711,,1.0,1.0,Item-CF only,A Thousand Country Roads: An Epilogue to The Bridges of Madison County,Robert James Waller,John M. Hardy
+226553,0345307674,,1.0,1.0,Item-CF only,Return of the Jedi (Star Wars),James Kahn,Del Rey Books
+226553,0875421288,,1.0,1.0,Item-CF only,"The Complete Book of Incense, Oils &amp; Brews (Llewellyn's Practical Magick)","Scott, Cunningham",Llewellyn Publications
+226553,0425103552,,1.0,1.0,Item-CF only,Marine Sniper: 93 Confirmed Kills,Charles Henderson,Berkley Publishing Group
+226553,0671016792,,1.0,1.0,Item-CF only,SKATING FOR THE GOLD,Chip Lovitt,Simon Spotlight Entertainment
+226553,0312990456,0.888171795087179,0.94928265351865,0.9187272243029145,Content + Item-CF,One for the Money (A Stephanie Plum Novel),Janet Evanovich,St. Martin's Paperbacks
+226553,0684822652,0.8603728153864203,0.9,0.8801864076932102,Content + Item-CF,THREE TO GET DEADLY : A Stephanie Plum Novel,Janet Evanovich,Scribner
+228998,0916856011,,1.0000000000000002,1.0000000000000002,Item-CF only,Twelve Steps and Twelve Traditions,Alcoholics Anonymous,Hazelden Publishing &amp; Educational Services
+228998,0060972920,,1.0000000000000002,1.0000000000000002,Item-CF only,Getting the Love You Want: A Guide for Couples,Harville Hendrix,Perennial
+228998,0451458583,,1.0,1.0,Item-CF only,Threshold: A Novel of Deep Time,Caitlin R. Kiernan,Roc
+228998,0345417976,,1.0,1.0,Item-CF only,A Prayer for Owen Meany (Ballantine Reader's Circle),John Irving,Ballantine Books
+228998,0140374248,,1.0,1.0,Item-CF only,James and the Giant Peach,Roald Dahl,Penguin USA (Paper)
+228998,0515132624,,1.0,1.0,Item-CF only,Headwind,John J. Nance,Jove Books
+228998,0451078721,,1.0,1.0,Item-CF only,Shining,Stephen King,Penguin Putnam~mass
+228998,0812542835,,1.0,1.0,Item-CF only,Reliquary,Douglas Preston,Tor Books
+228998,0553230212,0.9138327590254314,,0.9138327590254314,Content only,Parsifal Mosaic,Robert Ludlum,Bantam Doubleday Dell
+228998,0020519001,0.8692455427330799,,0.8692455427330799,Content only,A Farewell to Arms (A Scribner Classic),Ernest Hemingway,Simon &amp; Schuster
+239609,0439064872,,1.0,1.0,Item-CF only,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,Scholastic
+239609,0618002235,,1.0,1.0,Item-CF only,"The Two Towers (The Lord of the Rings, Part 2)",J. R. R. Tolkien,Houghton Mifflin Company
+239609,0679429220,,1.0,1.0,Item-CF only,Midnight in the Garden of Good and Evil: A Savannah Story,John Berendt,Random House
+239609,088396631X,,1.0,1.0,Item-CF only,"The One World, One Heart: Everyone Has the Same Basic Needs and Emotions. We Must Put Aside Our Differences and Come Together as One in Peace, U",Susan Polis Schutz,Blue Mountain Arts
+239609,0451452615,,1.0,1.0,Item-CF only,Bored of the Rings: A Parody of J.R.R. Tolkien's the Lord of the Rings,Harvard Lampoon Staff,Roc
+239609,044652087X,,1.0,1.0,Item-CF only,My Sergei: A Love Story,Ekaterina Gordeeva,Warner Books
+239609,0064400999,,1.0,1.0,Item-CF only,Betsy and Tacy Go Over the Big Hill (Betsy-Tacy),Maud Hart Lovelace,HarperTrophy
+239609,0446531332,,1.0,1.0,Item-CF only,Nights in Rodanthe,Nicholas Sparks,Warner Books
+239609,0440219329,,1.0,1.0,Item-CF only,Both Sides of Time (Scholastic Classics),Caroline B. Cooney,Laure Leaf
+239609,0439139597,0.6289430294474608,1.0,0.8144715147237305,Content + Item-CF,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,Scholastic
+277945,0451205448,,0.8,0.8,Item-CF only,Bubbles Unbound,Sarah Strohmeyer,Signet Book
+277945,0515135062,,0.8,0.8,Item-CF only,Three Fates,Nora Roberts,Jove Books
+277945,0515134449,,0.8,0.8,Item-CF only,The Laughing Corpse (Anita Blake Vampire Hunter (Paperback)),Laurell K. Hamilton,Jove Books
+277945,0440235596,,0.8,0.8,Item-CF only,Tara Road,Maeve Binchy,Dell Publishing Company
+277945,0671898264,,0.8,0.8,Item-CF only,NP,Banana Yoshimoto,Washington Square Press
+277945,0440223202,,0.8,0.8,Item-CF only,Evening Class,Maeve Binchy,Dell Publishing Company
+277945,0740723367,,0.8,0.8,Item-CF only,The Meaning Of Life,Bradley Trevor Greive,Andrews McMeel Publishing
+277945,0609608339,,0.8,0.8,Item-CF only,The Buffalo Soldier : A Novel by the Bestselling Author of MIDWIVES,CHRIS BOHJALIAN,Shaye Areheart Books
+277945,0515114693,0.6264249651575673,0.7321937126407125,0.6793093388991399,Content + Item-CF,Born in Fire,Nora Roberts,Jove Books
+277945,051512947X,0.6518892905331013,,0.6518892905331013,Content only,Once upon a Dream,Nora Roberts,Jove Books

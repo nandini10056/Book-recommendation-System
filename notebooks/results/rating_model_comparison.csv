@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Item-Based Collaborative Filtering (K=50),1.468959,0.933052
+Item-Based Collaborative Filtering (K=20),1.538742,0.951834
+User-Based Collaborative Filtering,1.808619,1.409231
